@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesicahmwikali
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning software development
+- 👀 I’m interested in data science
+- 🌱 I’m currently at a bootcamp for data scince
 - 💞️ I’m looking to collaborate on new creative projects
 - 📫 How to reach me - jessmutiso@gmail.com
 
